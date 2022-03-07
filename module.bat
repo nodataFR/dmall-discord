@@ -1,0 +1,9 @@
+pip install discord
+pip install colorama
+pip install os
+pip install requests
+pip install time
+pip install random
+pip install init
+pip install sys
+pip install subprocess
